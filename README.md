@@ -1,6 +1,6 @@
 # Miami-Dade Purchase Orders Analysis Dashboard 📊
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://miami-dade-po-viewer.windsurf.build)
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://miami-dade-po-analysis.netlify.app)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/MUI-5.15.10-purple.svg)](https://mui.com/)
 
@@ -26,7 +26,7 @@ An interactive web application for analyzing Miami-Dade County's purchase orders
 
 ## 🚀 Live Demo
 
-Explore the live application at: [https://miami-dade-po-viewer.windsurf.build](https://miami-dade-po-viewer.windsurf.build)
+Explore the live application at: [https://miami-dade-po-analysis.netlify.app](https://miami-dade-po-analysis.netlify.app)
 
 ## 🛠️ Technology Stack
 
@@ -54,7 +54,7 @@ Explore the live application at: [https://miami-dade-po-viewer.windsurf.build](h
    ```
 
 4. **Open the application**
-   Visit https://miami-dade-po-viewer.windsurf.build/ or [http://localhost:3000](http://localhost:3000) in your browser
+   Visit [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📈 Data Analysis
 
