@@ -35,26 +35,6 @@ Explore the live application at: [https://miami-dade-po-analysis.netlify.app](ht
 - **Data Display**: MUI X-Data-Grid
 - **Deployment**: Netlify
 
-## 🏃‍♂️ Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Perez786/DataMining_FinalProject.git
-   cd miami-dade-po-viewer
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm start
-   ```
-
-4. **Open the application**
-   Visit [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📈 Data Analysis
 
