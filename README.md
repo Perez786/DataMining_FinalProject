@@ -8,8 +8,6 @@
 
 An interactive web application for analyzing Miami-Dade County's purchase orders using RFM (Recency, Frequency, Monetary) analysis. This tool helps in understanding supplier relationships and spending patterns through data visualization and analysis.
 
-![Dashboard Preview](https://raw.githubusercontent.com/Perez786/DataMining_FinalProject/main/dashboard-preview.png)
-
 ## ✨ Features
 
 - **RFM Analysis**: Analyze suppliers based on:
@@ -44,17 +42,9 @@ The application performs RFM analysis on Miami-Dade County's purchase orders:
 - **Frequency**: Calculates the average number of orders per month
 - **Monetary**: Analyzes total spending and average order value
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [Perez786](https://github.com/Perez786)
 
 ## 🙏 Acknowledgments
 
